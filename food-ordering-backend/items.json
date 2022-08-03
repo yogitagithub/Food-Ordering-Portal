@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "name": "Pizza",
+            "image": "https://images3.alphacoders.com/104/1041781.jpg",
+
+            "subItemsData": {
+                "name": "Tasty Pizzas",
+                "subItems": [
+            {
+                "name": "Tomato Basil Italian Pizza",
+                "image": "https://media.istockphoto.com/photos/pizza-picture-id181175167?k=20&m=181175167&s=612x612&w=0&h=9GG7ul76f-Kly2aLMgIqYf37csf91uN4_QyOmQKUWKI=",
+                "price": "470",
+                "description": "Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomato sauce with Parmesan cheese, jalapeno peppers, red peppers."
+            },
+            {
+                "name": "Bombay Pizza",
+                "image": "https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=600,height=400,format=auto,quality=80/https://doordash-static.s3.amazonaws.com/media/store/header/958120a8-1b18-4ff7-8ec8-d423c4c3b667.651",
+                "price": "560",
+                "description": "Spicy tomato sauce with italian herbs,mushrooms, onion, cottage cheese, coriander and mozzarela."
+            },
+            {
+                "name": "Sicilia Pizza",
+                "image": "https://www.kingarthurbaking.com/sites/default/files/2020-05/sicilian-style-pizza.jpg",
+                "price": "420",
+                "description": "A thick base pizza with fresh tomato sauce, mushrooms, garlic, pickled onions."
+            }
+        ]
+    }
+},
+{
+    "name": "Burger",
+    "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/06/burger-photography-3.jpg",
+
+    "subItemsData": {
+        "name": "Crispy Burgers",
+        "subItems": [
+            {
+                "name": "Potato Corn Burger",
+                "image": "https://realfood.tesco.com/media/images/SweetcornBurger-H-258dd052-a7bf-456d-babb-dade51860028-0-472x310.jpg",
+                "price": "268",
+                "description": "Stacks of corn fritters, jyicy grilled tomato slices and garlic aioli in soft burger buns."
+            },
+            {
+                "name": "Supreme Veggie Burger",
+                "image": "http://feenix.co.in/wp-content/uploads/2018/01/f04f4f27842671111c5587d40fa1b10a.jpg",
+                "price": "225",
+                "description": "Cooking the onion and garlic, spice and veggie broth elevates these burgers to the greatest."
+            },
+            {
+                "name": "Rajma Patty Burger",
+                "image": "https://resize.indiatvnews.com/en/resize/oldbucket/715_-/lifestylelifestyle/rajmaburger.jpg",
+                "price": "200",
+                "description": "A black bean burger would simply be a patty made from beans, if didn't add some pizazz."
+            }
+        ]
+    }
+}
+]
+}

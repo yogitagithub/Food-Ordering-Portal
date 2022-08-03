@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clutch{
+    width: 60%;
+    margin: auto;
+}
+
+.display-img{
+    margin-top: 2%;
+    margin-left: 2%;
+    display: flex;
+    width: 80px;
+    height: 80px;
+}
+
+.title{
+    font-weight: 600;
+    font-size: x-large;
+    margin-left: 20%;
+    margin-top: -5%;
+    color: black;
+}
+
+.stars{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    border-bottom: 4px solid rgb(235, 28, 155);
+    padding-bottom: 10px;
+}
+
+.pillow{
+    padding: 5px 10px;
+    font-weight: bold;
+    margin-right: 190px;
+}
+
+.price{ 
+    font-size: x-large;
+    font-weight: 500;
+    margin-left: 48%;
+    color: rgb(119, 21, 4);
+}
+
+.total{
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-text{
+    font-size: 2rem;
+    color:  rgb(204, 41, 12);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.total-price{
+    font-size: 2rem;
+    color: rgb(204, 41, 12);
+    font-weight: bold;
+}
+
+.stars img{
+    width: 50px;
+    height: 50px;
+}
+
+.eye{
+    font-weight: bold;
+    left: 30px;
+}
+
+.one{
+    font-size: larger;
+    font-weight: 900;
+    width: 5%;
+    margin-top: -7%;
+    margin: 27px auto;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px; 
+}
+
+.two{
+    font-size: large;
+    font-weight: 200;
+    width: 6%;
+    margin-top: 6%;
+    margin-left: 70%;
+    justify-content: space-around;
+    border-radius: 4px; 
+} 
+
+.three{
+    font-size: larger;
+    font-weight: 900;
+    width: 5%;
+    margin-top: -7%;
+    margin: 27px auto;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px; 
+}
+
+.btn{
+    display: block;
+    width: 11%;
+    font-size: 1.4rem;
+    margin: 13px 0;
+    margin-left: 45%;
+    padding: 3px 0;
+    background-color: whitesmoke;
+    color: red;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.remove-btn{
+    display: block;
+    width: 7%;
+    font-size: 1.3rem;
+    margin: 10px 0;
+    padding: 2px 0;
+    background-color: rgb(5, 55, 129);
+    color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+}

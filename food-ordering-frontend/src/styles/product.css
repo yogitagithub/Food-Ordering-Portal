@@ -1,0 +1,19 @@
+.one{
+    font-size: 2.1rem;
+    font-weight: bold;
+    margin-left: 370px;
+    color: rgb(48, 7, 161);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    margin-top: -80px;
+}
+
+.two{
+    font-size: 2.1rem;
+    font-weight: bold;
+    margin-left: 880px;
+    margin-top: -36px;
+    color: rgb(48, 7, 161);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
